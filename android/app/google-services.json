@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028807949556",
+    "project_id": "ntapp-b3b5d",
+    "storage_bucket": "ntapp-b3b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028807949556:android:1ff68e2d690a7c391cb2a1",
+        "android_client_info": {
+          "package_name": "com.example.ntapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOPj6Z79AMLApJ9k2YpffXg8-8JaazWik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
