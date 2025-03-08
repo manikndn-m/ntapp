@@ -1,1 +1,1 @@
-A simple note taking application.
+A simple note taking application I wrote to learn Flutter.
